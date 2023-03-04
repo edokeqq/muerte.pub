@@ -1,4 +1,21 @@
 # ✨Shiny.pub update logs
-[Ragebot]
+ [Ragebot]
+ 
+- Fixed double-tap teleport
+- Fixed body aimbot
 
-_fafq
+ [Anti Aim]
+ 
+- 
+
+ [Visuals]
+ 
+- 
+
+ [Misc]
+ 
+- 
+
+ [Other]
+ 
+- 
