@@ -20,5 +20,3 @@
  
 - 
 
-
-Creator Edokeq
