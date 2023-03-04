@@ -1,2 +1,4 @@
-# shiny.pub
-Shiny.pub[LW]. No paste without credit!
+# ✨Shiny.pub update logs
+[Ragebot]
+
+_fafq
