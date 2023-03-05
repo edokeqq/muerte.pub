@@ -14,7 +14,7 @@
 
  [Misc]
  
-- 
+- Added console filter
 
  [Other]
  
