@@ -13,6 +13,8 @@
  
 - Changed ESP font
 - Reworked watermark
+- Fixed viewmodel
+- Reworked Thirdperson
 
  [Misc]
  
@@ -23,4 +25,5 @@
  [Other]
  
 - Now you can change menu color
+- Fixed skinchanger
 
