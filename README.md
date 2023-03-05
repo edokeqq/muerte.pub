@@ -2,8 +2,7 @@
  [Ragebot]
 
 - Reworked tickbase
-- Reworked body aim
-- Reworked local anim
+- Reworked animation
 
 
  [Anti Aim]
