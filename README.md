@@ -11,10 +11,13 @@
  [Visuals]
  
 - Changed ESP font
+- Reworked watermark
 
  [Misc]
  
 - Added console filter
+- Reworked clan-tag
+
 
  [Other]
  
