@@ -21,5 +21,5 @@
 
  [Other]
  
-- 
+- Now you can change menu color
 
