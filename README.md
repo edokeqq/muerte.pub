@@ -3,6 +3,8 @@
 
 - Reworked tickbase
 - Reworked body aim
+- Reworked local anim
+
 
  [Anti Aim]
  
