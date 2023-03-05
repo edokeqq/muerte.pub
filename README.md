@@ -2,7 +2,7 @@
  [Ragebot]
 
 - Reworked tickbase
-- Reworked body aimbot
+- Reworked body aim
 - Reworked autowall
 
  [Anti Aim]
