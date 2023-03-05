@@ -3,6 +3,7 @@
 
 - Reworked tickbase
 - Reworked animation
+- Reworked defensive
 
 
  [Anti Aim]
