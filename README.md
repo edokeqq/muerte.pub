@@ -7,6 +7,7 @@
  [Anti Aim]
  
 - Fixed fakeduck accuracy
+- Reworked fakelag
 
  [Visuals]
  
