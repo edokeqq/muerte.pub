@@ -1,12 +1,13 @@
 # ✨Shiny.pub update logs
  [Ragebot]
- 
-- Fixed double-tap teleport
-- Fixed body aimbot
+
+- Reworked tickbase
+- Reworked body aimbot
+- Reworked autowall
 
  [Anti Aim]
  
-- 
+- Fixed fakeduck accuracy
 
  [Visuals]
  
