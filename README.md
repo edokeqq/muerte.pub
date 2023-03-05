@@ -3,7 +3,6 @@
 
 - Reworked tickbase
 - Reworked body aim
-- Reworked autowall
 
  [Anti Aim]
  
@@ -11,7 +10,7 @@
 
  [Visuals]
  
-- 
+- Changed ESP font
 
  [Misc]
  
