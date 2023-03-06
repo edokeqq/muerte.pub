@@ -2,6 +2,7 @@
  [Ragebot]
 
 - Added bodyaim conditions
+- Added avoid backstab
 - Reworked tickbase
 - Reworked knife bot
 - Reworked zeus bot
