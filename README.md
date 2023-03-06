@@ -2,6 +2,7 @@
  [Ragebot]
 
 - Added bodyaim conditions
+- Reworked tickbase
 
 
  [Anti Aim]
