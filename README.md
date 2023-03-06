@@ -2,6 +2,7 @@
  [Ragebot]
 
 - Reworked autowall
+- Reworked predict
 - Reworked hitchange
 - Reworked knifebot
 - Reworked zeusbot
