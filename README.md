@@ -3,6 +3,8 @@
 
 - Reworked autowall
 - Reworked predict
+- Reworked animation
+- Reworked resolver
 - Reworked hitchange
 - Reworked knifebot
 - Reworked zeusbot
