@@ -20,7 +20,7 @@
 
  [Other]
  
- -
+ - Reworked copy_command
  
  
  ---------------------------------
