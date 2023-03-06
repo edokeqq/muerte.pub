@@ -29,6 +29,8 @@
  [Other]
  
  - Reworked copy_command
+ - Reworked interpolation
+ - Reworked setup_bones
  
  
  ---------------------------------
