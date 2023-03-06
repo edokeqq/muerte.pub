@@ -3,6 +3,9 @@
 
 - Reworked autowall
 - Reworked hitchange
+- Reworked knifebot
+- Reworked zeusbot
+- Reworked double-tap
 
 
  [Anti Aim]
