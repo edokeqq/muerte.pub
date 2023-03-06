@@ -2,10 +2,11 @@
  [Ragebot]
 
 - Added bodyaim conditions
-- Added avoid backstab
+- Added avoid backstab - thanks flengo
 - Reworked tickbase
 - Reworked knife bot
 - Reworked zeus bot
+- Reworked autowall - thanks flengo
 
 
  [Anti Aim]
