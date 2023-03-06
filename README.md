@@ -1,14 +1,7 @@
-# ✨Shiny.pub update logs
+# ✨Shiny.pub Preview version
  [Ragebot]
 
-- Added bodyaim conditions
-- Added avoid backstab - thanks flengo
-- Reworked tickbase
-- Reworked knife bot
-- Reworked zeus bot
-- Reworked autostop
-- Reworked prediction - q0o paste
-- Reworked autowall - thanks flengo
+-
 
 
  [Anti Aim]
@@ -18,9 +11,7 @@
 
  [Visuals]
  
-- Changed ESP font
-- Reworked watermark
-- Reworked autopeek
+ -
 
  [Misc]
  
@@ -29,6 +20,14 @@
 
  [Other]
  
-- Removed shitty function
-- Optimized cheat
+ -
+ 
+ 
+ ---------------------------------
+ 
+ sdk base: legendware v3
+ source used: https://github.com/maj0roff/saphire
+ special thanks:
+ 
+ 
 
