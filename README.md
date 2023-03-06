@@ -3,6 +3,8 @@
 
 - Added bodyaim conditions
 - Reworked tickbase
+- Reworked knife bot
+- Reworked zeus bot
 
 
  [Anti Aim]
