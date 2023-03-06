@@ -6,6 +6,8 @@
 - Reworked tickbase
 - Reworked knife bot
 - Reworked zeus bot
+- Reworked autostop
+- Reworked prediction - thanks flengo
 - Reworked autowall - thanks flengo
 
 
