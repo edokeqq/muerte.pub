@@ -2,6 +2,7 @@
  [Ragebot]
 
 - Reworked autowall
+- Reworked hitchange
 
 
  [Anti Aim]
