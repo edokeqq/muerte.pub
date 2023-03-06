@@ -27,7 +27,7 @@
  
  sdk base: legendware v3
  
- source used: https://github.com/maj0roff/saphire
+ source used: https://yougame.biz/threads/164496/
  
  special thanks:
  
