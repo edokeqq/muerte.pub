@@ -7,7 +7,7 @@
 - Reworked knife bot
 - Reworked zeus bot
 - Reworked autostop
-- Reworked prediction - thanks flengo
+- Reworked prediction - q0o paste
 - Reworked autowall - thanks flengo
 
 
