@@ -15,7 +15,8 @@
 
  [Visuals]
  
- -
+ - Fixed skinchanger
+ - Fixed viewmodel 
 
  [Misc]
  
