@@ -8,7 +8,6 @@
 - Reworked hitchange
 - Reworked knifebot
 - Reworked zeusbot
-- Reworked double-tap
 
 
  [Anti Aim]
@@ -30,9 +29,6 @@
  
  - Reworked copy_command
  - Reworked interpolation
- - Reworked cl_move
- - Reworked createmove
- - Reworked runcommand
  - Reworked setup_bones
  
  
