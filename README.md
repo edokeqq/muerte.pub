@@ -1,13 +1,7 @@
 # ✨Shiny.pub Preview version
  [Ragebot]
 
-- Reworked autowall
-- Reworked predict
-- Reworked animation
-- Reworked resolver
-- Reworked hitchange
-- Reworked knifebot
-- Reworked zeusbot
+
 
 
  [Anti Aim]
@@ -26,10 +20,6 @@
 
 
  [Other]
- 
- - Reworked copy_command
- - Reworked interpolation
- - Reworked setup_bones
  
  
  ---------------------------------
