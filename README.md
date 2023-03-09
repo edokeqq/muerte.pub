@@ -1,14 +1,8 @@
 # ✨Shiny.pub Preview version
  [Ragebot]
-
-
-
-
+ 
  [Anti Aim]
  
-- 
-
-
  [Visuals]
  
  - Fixed skinchanger
@@ -16,9 +10,6 @@
 
  [Misc]
  
-- 
-
-
  [Other]
  
  
