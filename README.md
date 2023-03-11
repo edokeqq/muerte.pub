@@ -10,6 +10,7 @@
  [Other]
  
  - Some changes on menu
+ - Removed unused stuff
  - Fixed SkinChanger
  - Fixed Viewmodel Changer
 
