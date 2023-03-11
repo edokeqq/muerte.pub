@@ -9,6 +9,7 @@
  
  [Other]
  
+ - Some changes on menu
  - Fixed SkinChanger
  - Fixed Viewmodel Changer
 
