@@ -1,22 +1,17 @@
-# ✨Shiny.pub Preview version
+# 💀 Muerte.pub Preview version
  [Ragebot]
- 
- - Reworked autowall
- - Reworked prediction
  
  [Anti Aim]
  
  [Visuals]
  
- - Added new type chams
- - Added hitchams
- - Fixed skinchanger
- - Fixed viewmodel 
-
  [Misc]
  
  [Other]
  
+ - Fixed SkinChanger
+ - Fixed Viewmodel Changer
+
  
  ---------------------------------
  
